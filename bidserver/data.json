@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "food",
+      "price": "5000000",
+      "auctionId": "bir_123",
+      "last_bidder": "bhanull"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+.auction{
+    background: url('coal.jpg');
+    background-size: cover;
+    /* box-shadow: rgba(201, 125, 33, 0.5); */
+}
+.auction .card-container .auction1{
+    padding: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+}
+.head-bg{
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.6)),url('img5.avif'); 
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    height: 180px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+.card-item1{
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+.details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.buttongroup{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.5rem;   
+}
+.buttongroup Button{
+    color: rgb(15, 14, 14);
+    background-color: #fff;
+}
+.buttongroup Button:hover{
+    background-color: #0c44e1;
+    color: #fff;
+}

@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "name": "Bhanu prakash pandey",
+      "organizationName": "CMPD",
+      "auctionDate": "2024-08-01",
+      "auctionTime": "15:39",
+      "price": "2000",
+      "auctionId": "A_335_77"
+    },
+    {
+      "name": "Bhanu prakash pandey",
+      "organizationName": "CMPD",
+      "auctionDate": "2024-08-01",
+      "auctionTime": "15:39",
+      "price": "2000",
+      "auctionId": "A_335_77"
+    },
+    {
+      "name": "Bhanu prakash pandey",
+      "organizationName": "CMPD",
+      "auctionDate": "2024-08-02",
+      "auctionTime": "12:43",
+      "price": "2000",
+      "auctionId": "A_335_77"
+    },
+    {
+      "name": "Bhanu prakash pandey",
+      "organizationName": "CMPD",
+      "auctionDate": "2024-09-25",
+      "auctionTime": "16:41",
+      "price": "2000",
+      "auctionId": "A_335_77"
+    },
+    {
+      "name": "Bhanu prakash pandey",
+      "organizationName": "CMPD",
+      "auctionDate": "2024-09-25",
+      "auctionTime": "16:41",
+      "price": "2000",
+      "auctionId": "A_335_77"
+    },
+    {
+      "name": "COAL",
+      "organizationName": "jasika",
+      "auctionDate": "2024-08-09",
+      "auctionTime": "22:25",
+      "price": "3000",
+      "auctionId": "C_1122_20214"
+    },
+    {
+      "name": "COAL",
+      "organizationName": "jasika",
+      "auctionDate": "2024-08-09",
+      "auctionTime": "22:25",
+      "price": "3000",
+      "auctionId": "C_1122_20214"
+    },
+    {
+      "name": "vibhu",
+      "organizationName": "goiogle",
+      "auctionDate": "2024-08-01",
+      "auctionTime": "23:55",
+      "price": "200000",
+      "auctionId": "A_123456_jj"
+    },
+    {
+      "name": "vibhu",
+      "organizationName": "goiogle",
+      "auctionDate": "2024-08-01",
+      "auctionTime": "23:55",
+      "price": "200000",
+      "auctionId": "A_123456_jj"
+    },
+    {
+      "name": "briyani",
+      "organizationName": "hyd",
+      "auctionDate": "2024-07-28",
+      "auctionTime": "16:05",
+      "price": "500",
+      "auctionId": "bir_123"
+    },
+    {
+      "name": "briyani",
+      "organizationName": "hyd",
+      "auctionDate": "2024-07-28",
+      "auctionTime": "16:05",
+      "price": "500",
+      "auctionId": "bir_123"
+    }
+  ]
+}
